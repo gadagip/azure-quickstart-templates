@@ -58,6 +58,7 @@
     }
   },
   "variables": {
+    "storageAccountName": "",
     "dataDisk1VhdName": "datadisk1",
     "imagePublisher": "Canonical",
     "imageOffer": "UbuntuServer",
