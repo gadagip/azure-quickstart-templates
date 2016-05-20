@@ -47,6 +47,7 @@
   },
   "variables": {
     "storageAccountName": "[parameters('newStorageAccountName')]",
+    "vmDiagnosticsStorageAccountName": "[parameters('vmDiagnosticsStorageAccountName')]",
     "imagePublisher": "Canonical",
     "imageOffer": "UbuntuServer",
     "OSDiskName": "osdiskforlinuxsimple",
